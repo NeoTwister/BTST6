@@ -26,6 +26,8 @@ namespace MVCproject
 		        hehe
 			WOnder hoi !!!
 			Vivid Bad Squad 
+			Happy Around
+>>>>>>> e020f5da8a08dffd5f3554f9735ccd28ff4e139d
 
 >>>>>>> SV
                 });
