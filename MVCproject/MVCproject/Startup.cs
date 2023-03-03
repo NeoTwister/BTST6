@@ -46,6 +46,7 @@ namespace MVCproject
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+		
             });
         }
     }
