@@ -25,6 +25,7 @@ namespace MVCproject
 <<<<<<< HEAD
 		        hehe
 			WOnder hoi !!!
+			Vivid Bad Squad 
 
 >>>>>>> SV
                 });
