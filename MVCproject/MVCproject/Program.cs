@@ -21,6 +21,7 @@ namespace MVCproject
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+			Hello
                 });
     }
 }
